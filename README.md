@@ -5,9 +5,17 @@
 ```
 conda create --name final_15 python=3.11.11
 ```
-2. Activate Env & Install requirements.txt
+2. Activate Env 
 ```
 conda activate final_15
+```
+3. Clone the Repo & Install requirements.txt
+```
+git clone https://github.com/yenchoco/Edge_AI__final_15.git
+cd Edge_AI__final_15
 pip install -r requirements.txt
 ```
-3. 
+4. Run the inference
+```
+python3 official_result.py
+```

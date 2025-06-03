@@ -11,8 +11,8 @@ conda activate final_15
 ```
 3. Clone the Repo & Install requirements.txt
 ```
-git clone https://github.com/yenchoco/Edge_AI__final_15.git
-cd Edge_AI__final_15
+git clone https://github.com/yenchoco/Final_15.git
+cd Final_15
 pip install -r requirements.txt
 ```
 4. Run the inference

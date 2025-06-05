@@ -13,8 +13,8 @@ A implementation of vocabulary-aligned knowledge distillation for Llama models u
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/your-username/llama-distillation.git
-cd llama-distillation
+git clone https://github.com/your-username/llama-kd-lora.git
+cd llama-kd-lora
 ```
 
 2. **Install dependencies:**

@@ -11,10 +11,10 @@ A implementation of vocabulary-aligned knowledge distillation for Llama models u
 
 ## Installation
 
-1. **Clone the repository:**
+1. **Switch branch:**
 ```bash
-git clone https://github.com/your-username/llama-kd-lora.git
-cd llama-kd-lora
+cd Final_15
+git checkout llama-kd-lora
 ```
 
 2. **Install dependencies:**
